@@ -1,5 +1,5 @@
 # NLP - Insincere Questions Classificaion
-This is a capstone project for natural language processing specialization. In this project I've demonstrated important usage of concepts and technologies such as:
+This is a capstone project for natural language processing specialization. In this project I've demonstrated usage of important concepts and technologies such as:
 * __Structured and repeatable process for Data Science projects__
     * Initial Data Exploration
     * Extract, Transform, Load
@@ -8,13 +8,16 @@ This is a capstone project for natural language processing specialization. In th
     * Model Training
     * Model Evaluation
     * Model Deployment
-    
+
+* python, pandas, seaborn, ntkl, sklearn, keras.
+
 Work is structured in three notebooks. First focues on EDA and ETL, second and third focused on modeling with classical ML and Neural networks.
 1) __EDA - Explorative Data Analysis__
     * Demonstrate graphical and numerical techniques to uncover the structure of the data.
-    * Which variables suggest interesting relationships?
-    * Which observations are unusual?
-    * Analysis of the features
+        * Which variables suggest interesting relationships?
+        * Which observations are unusual?
+        * Analysis of the features
+    * Frequency plots, ngrams, wordclouds, ...
     
 2) __Using conventional methods in NLP setup__
     * Conventional preprocessing and data preparation for NLP 
